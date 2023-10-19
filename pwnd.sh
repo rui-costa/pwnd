@@ -1,3 +1,5 @@
+echo "                                                                                                     " >> secret.txt
+echo "                                                                                                     " >> secret.txt
 echo "     ___       __       __         ____    ____  ______    __    __  .______                         " >> secret.txt
 echo "    /   \     |  |     |  |        \   \  /   / /  __  \  |  |  |  | |   _  \                        " >> secret.txt
 echo "   /  ^  \    |  |     |  |         \   \/   / |  |  |  | |  |  |  | |  |_)  |                       " >> secret.txt
@@ -25,6 +27,7 @@ echo "'---|  |----'|  |  |  |    |  |  |  |    |   (----'                       
 echo "    |  |     |  |  |  |    |  |  |  |     \   \                                                      " >> secret.txt
 echo "    |  |     |  '--'  |    |  '--'  | .----)   |                                                     " >> secret.txt
 echo "    |__|      \______/      \______/  |_______/                                                      " >> secret.txt
+echo "                                                                                                     " >> secret.txt
 echo "                                                                                                     " >> secret.txt
 cat secret.txt
 exit 0
